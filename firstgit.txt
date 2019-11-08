@@ -1,5 +1,8 @@
 Hello
 This is the first time i am using git for versioning
 Editing and testing
+Try branching 
+pull request
+Merge all these stuff
 Thank you
 Bye --try to merge
